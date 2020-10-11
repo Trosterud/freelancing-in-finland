@@ -290,11 +290,14 @@ To avoid this busy season, you can choose a fiscal year that ends well before (S
 * Get another person's consent to be your *Deputy Member of the Board of Directors*.
   * According to [Limited Liability Companies Act](https://www.finlex.fi/en/laki/kaannokset/2006/en20060624.pdf) in Chapter 6, Section 8.1:
     > There  shall  be  between  one  and  five  regular  Members  of  the  Board  of Directors, unless it is otherwise provided in the Articles of Association. If there are  fewer  than  three  Members,  there  shall be  at  least one  Deputy  Member of the Board of Directors.
-
+    
   * This means that, for your company to be legally compliant, it must have a *Deputy Member of the Board of Directors* when you are going to be the *only* regular member of Board of Directors as the CEO.
+  
+  * While there is no legal requirement that a company has a CEO (as opposed to having a board which *is* legally required). It is common practice to set yourself as CEO, as it can make your day to day easier when representing your company.
+  
   * *Deputy Member of the Board of Directors* would be held liable only [for decisions they make in board meetings](https://www.yrittajat.fi/uutiset/610877-saitko-kutsun-osakeyhtion-hallituksen-varajaseneksi-sinullakin-saattaa-olla#528cbe2f). In practice, unless you die or you are permanently unable to act as the CEO, *Deputy Member of the Board of Directors* won't have to make any decision so you can communicate this fact to them to help them with their decision making.
   * Once you get the person's consent, get his/her personal ID (henkilötunnus) as you'll need it for establishing the company.
-
+  
 * Decide the registries you'd like your company to be part of:
   * Trade register ✅, as the company cannot come into life without it.
   * Prepayment register ✅, as without it, other companies have to withhold taxes on the amounts they pay you.
